@@ -6,5 +6,6 @@ package com.tzp.git;
 public class Demo {
     public static void main(String[] args) {
         System.out.println("git idea test1");
+        System.out.println("别人提交");
     }
 }
